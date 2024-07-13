@@ -1,3 +1,3 @@
 FROM httpd:latest
 
-COPY ./JewelWebsite /usr/local/apache2/htdocs
+COPY ./Jewel Website /usr/local/apache2/htdocs
